@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NopCommerce Automation Testing">
+
+    <test name="Run on Firefox browser">
+        <classes>
+            <class name="com.nopecommer.user.User01_Resgister_login" />
+
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->
