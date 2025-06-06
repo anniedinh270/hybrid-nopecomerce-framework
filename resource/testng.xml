@@ -4,7 +4,7 @@
 
     <test name="Run on Firefox browser">
         <classes>
-            <class name="com.nopecommer.user.User01_Resgister_login" />
+            <class name="com.nopecommer.user.Level_03_Page_Object" />
 
         </classes>
     </test>
